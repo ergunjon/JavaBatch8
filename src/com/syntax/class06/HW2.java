@@ -34,7 +34,7 @@ public class HW2 {
 		default:
 			System.out.println("Invalid data");
 		}
-		
+		 
 		if(result!=0) {
 			System.out.println("Result is = "+result);
 		}
