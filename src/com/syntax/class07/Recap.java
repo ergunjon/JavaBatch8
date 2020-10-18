@@ -20,10 +20,10 @@ public class Recap {
     //variable MUST be same TYPE as variable
 	
 	//True:
-	//1.switch doesnt work with boolean, double, long and float
+	//1.switch doesn't work with boolean, double, long and float
 	//2.every switch statement can be written using if condition 
 	//False:
-	//1.every if condition can be written using switch statement(cant work with logical & relational)
+	//1.every if condition can be written using switch statement(can't work with logical & relational)
 	//(>, >=, <, <=)
 	
 	
