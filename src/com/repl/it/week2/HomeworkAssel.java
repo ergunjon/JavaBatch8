@@ -23,13 +23,13 @@ public class HomeworkAssel {
 		}
 		System.out.println("---------------------TASK3------------------------");
 		
-		int cel=25;
+		int cel=30;
 		int fah=77;
 		
 		System.out.println("The temperature is the city "+cel+" is "+fah);
 		System.out.println("---------------TASK4-------------------");
 		
-		int usd=89;
+		int usd=27;
 		double tl=7.86;
 		double mex=21.14;
 		

@@ -14,7 +14,7 @@ public class Recap {
 		}
 
 		//do while
-		//we use when we dont know how many times the action should be repeated
+		//we use when we don't know how many times the action should be repeated
 		
 		//do while vs while
 		
