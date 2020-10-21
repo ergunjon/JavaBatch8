@@ -10,8 +10,7 @@ public class As051 {
 			do {
 	System.out.println(a);
 				a++;
-			}
-			while(a<20);
+			}while(a<20);
 
 	}
 
