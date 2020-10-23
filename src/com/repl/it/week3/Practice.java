@@ -14,7 +14,7 @@ public class Practice {
 		// if score is higher than any other previous values --> eligibility = "Definitely eligible" 
 
 		
-		Scanner input=new
+
 				
 	}
 

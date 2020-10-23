@@ -6,7 +6,7 @@ public class PrintingPatternsBestWay {
 		
 		for(int r=1; r<=4; r++) { // outer loop control rows
 			for (int c=1; c<=6; c++) { // inner loop control columns
-				System.out.print("*");
+				System.out.print(c);
 			}
 			System.out.println();
 		}
