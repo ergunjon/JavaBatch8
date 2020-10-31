@@ -5,7 +5,7 @@ public class Task1 {
 	public static void main(String[] args) {
 
 
-System.out.println("-------how an i print clock-------------");
+System.out.println("-------how am i print clock-------------");
 		
 		for (int a=0; a<24; a++) {
 			for(int b=0; b<=59; b++) {

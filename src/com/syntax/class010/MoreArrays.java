@@ -16,7 +16,7 @@ public class MoreArrays {
 			
 			char valueFromArray=grades[i];
 			
-			System.out.println(valueFromArray);
+			System.out.println(grades[i]);
 		}
 
 	}

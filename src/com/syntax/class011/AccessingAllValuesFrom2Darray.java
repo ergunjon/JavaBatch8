@@ -10,7 +10,7 @@ public class AccessingAllValuesFrom2Darray {
 				//add values to first row
 				$array[0][0]='A';
 				$array[0][1]='B';
-				$array[0][2]='C';
+				$array[0][2]='C'; 
 				$array[0][3]='D';
 				
 				//2nd row
