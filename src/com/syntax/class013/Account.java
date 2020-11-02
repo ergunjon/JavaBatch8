@@ -13,13 +13,12 @@ public class Account {
     //transfer it deducts the amount from your your balance and returns
     //the amount of transfer in case of success or a 0 in case of failure
 
-    boolean login(String UserName, String password){
-        if(userName.equals(UserName) && password.equals(password)){
+    boolean login(String enteredUserName, String enteredpassword) {
+        if (userName.equals(enteredUserName) &&
+                password.equals(enteredpassword)) {
             return true;
-        }else{
+        } else {
             return false;
         }
-
-
     }
 }
